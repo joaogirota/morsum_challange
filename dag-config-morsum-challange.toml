@@ -1,0 +1,9 @@
+[GCP]
+owner_email = "example@gmail.com"
+bucket_origin = "gs://my-bucket/products/2022-07-01.csv"
+bucket_destiny = "gs://my-bucket/products/"
+mysqlroot = "root"
+mysqpassword = "password"
+database_name = "my_database"
+table = "my_table"
+python_script = "project/data/utils/clean_product_prices.py"
