@@ -35,7 +35,11 @@ Since this database synching needs to be done regularly, I do recomend to config
 
 With this, at the specified time, AirFlow will execute the pipeline and synchronize the databases.
 
+
+
 B)
+
+![alt text](https://imgur.com/a/aeOoKF2)
 
 i. It is more simple. Extract the data and use the pipeline to transform the data to match the BigQuery table schema, and then load it.
 
