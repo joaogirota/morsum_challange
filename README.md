@@ -39,7 +39,7 @@ With this, at the specified time, AirFlow will execute the pipeline and synchron
 
 B)
 
-![alt text](https://imgur.com/a/aeOoKF2](https://i.imgur.com/FHptLSk.png)
+![alt text](https://i.imgur.com/FHptLSk.png)
 
 i. It is more simple. Extract the data and use the pipeline to transform the data to match the BigQuery table schema, and then load it.
 
