@@ -3,6 +3,8 @@
 
 This code is a Jupyter notebook to perform what was requested in task 1.
 
+You can run the code by accessing: https://colab.research.google.com/drive/1mPyUp9F7t3irJ_7GXipceaeA7W5tSDem?usp=sharing
+
 Add any .csv file link in the second cell. After that, click on all 'play' buttons in the order of the cells. First the first cell, then the second cell, and so on.
 
 A function called 'parse_item_weight' was written, which only accepts dataframe objects. This function performs the requested treatment and returns the resulting dataframe.
